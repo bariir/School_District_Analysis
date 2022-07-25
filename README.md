@@ -51,6 +51,13 @@ The analysis of the School District dataset shows the following:
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? <br>
 
+  - Top and bottom 5 performing schools <br>
+
+	![Top 5 performing schools](/Resources/top_5_performing_schools.png)<br>
+	
+	![Bottom 5 performing schools](/Resources/bottom_5_performing_schools.png)<br>
+	
+
   - Math and reading scores by grade <br>
   
 	Thomas High School 9th graders math and reading scores has been excluded which will not be counted towards overall grades. <br>
@@ -84,6 +91,11 @@ The analysis of the School District dataset shows the following:
 
 
 ## Links to images:
+
+Top 5 performatinc schools:![top_5_performing_schools.png](https://github.com/bariir/School_District_Analysis/tree/main/Resources/top_5_performing_schools.png?raw=true)
+
+Bottom 5 performatinc schools:![bottom_5_performing_schools.png](https://github.com/bariir/School_District_Analysis/tree/main/Resources/bottom_5_performing_schools.png?raw=true)
+
 Math scores by grades:![math_scores_by_grades.png](https://github.com/bariir/School_District_Analysis/tree/main/Resources/math_scores_by_grades.png?raw=true)
 
 Reading scores by grades:![reading_scores_by_grades.png](https://github.com/bariir/School_District_Analysis/tree/main/Resources/reading_scores_by_grades.png?raw=true)
