@@ -23,11 +23,11 @@ Maria turned to the data analyst to produce certain metrics and provided him som
 # Finding and Metrics
 
 The analysis of the School District dataset shows the following:
-- The student dataset contains lots of prefixes such as Miss, Mrs., Mr., Dr 
-- The student dataset cotains lots of suffixes such as MD, PhD, DVM
-- These are incorrect dataset that have been entered into student_complete.csv file. 
-- In order to produce the correct metrics for the school district the input files will need to be cleaned and sorted.
-- Following key metrics are to be delivered.
+* The student dataset contains lots of prefixes such as Miss, Mrs., Mr., Dr 
+* The student dataset cotains lots of suffixes such as MD, PhD, DVM
+* These are incorrect dataset that have been entered into student_complete.csv file. 
+* In order to produce the correct metrics for the school district the input files will need to be cleaned and sorted.
+* Following key metrics are to be delivered.
 
  - A high-level snapshot of the district's key metrics, presented in a table format
  - An overview of the key metrics for each school, presented in a table format
@@ -43,13 +43,13 @@ The analysis of the School District dataset shows the following:
 
 # Results
 
-- How is the district summary affected? <br>
+* How is the district summary affected? <br>
 
 
-- How is the school summary affected? <br>
+* How is the school summary affected? <br>
 
 
-- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? <br>
+* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? <br>
 
   - Top and bottom 5 performing schools <br>
 
