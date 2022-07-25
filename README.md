@@ -83,10 +83,10 @@ The analysis of the School District dataset shows the following:
 # Summary
 
  - Four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs are.<br>
-   1. Both reading, and math scores will not have value<br>
-   2. Average reading score will be calculated without ninth grade reading score<br>
-   3. Average math score will be calculated without ninth grade math score<br>
-   4. Reading and math scores for 9th grades at Thomas High School will show NaN as value.<br>
+ 1. Both reading, and math scores will not have value<br>
+ 2. Average reading score will be calculated without ninth grade reading score<br>
+ 3. Average math score will be calculated without ninth grade math score<br>
+ 4. Reading and math scores for 9th grades at Thomas High School will show NaN as value.<br>
 
 
 
