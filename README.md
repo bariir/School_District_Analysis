@@ -44,12 +44,14 @@ The analysis of the School District dataset shows the following:
 # Results
 
 * How is the district summary affected? <br>
-
+    District summary will be affected because all ninth graders for Thomas High School’s reading and math are excluded. 
+    However, the impact is much smaller than on the school level summary.<br>
 
 * How is the school summary affected? <br>
-
+    The school summary will be impacted because ninth graders' reading and math scores are excluded.
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? <br>
+    The schools overall math and reading grades will be lower compare to other schools.<br>
 
   - Top and bottom 5 performing schools <br>
 
