@@ -53,14 +53,14 @@ The analysis of the School District dataset shows the following:
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? <br>
     The schools overall math and reading grades will be lower compare to other schools.<br>
 
-  - Top and bottom 5 performing schools <br>
+  - Top and bottom 5 performing schools.<br>
 
 	![Top 5 performing schools](/Resources/top_5_performing_schools.png)<br>
 	
 	![Bottom 5 performing schools](/Resources/bottom_5_performing_schools.png)<br>
 	
 
-  - Math and reading scores by grade <br>
+  - Math and reading scores by grade.<br>
   
 	Thomas High School 9th graders math and reading scores has been excluded which will not be counted towards overall grades. <br>
 	
@@ -68,15 +68,15 @@ The analysis of the School District dataset shows the following:
 	 
 	 ![Reading scores by grades](/Resources/reading_scores_by_grades.png)<br>
   
-  - Scores by school spending<br>
+  - Scores by school spending.<br>
   
 	![Scores by school spending](/Resources/scores_by_school_spending.png)<br>
   
-  - Scores by school size <br>
+  - Scores by school size.<br>
   
 	![Scores by school size](/Resources/scores_by_school_size.png)<br>
   
-  - Scores by school type <br>
+  - Scores by school type.<br>
   
 	![Scores by school type](/Resources/scores_by_school_type.png)<br>
 
@@ -85,9 +85,9 @@ The analysis of the School District dataset shows the following:
 # Summary
 
  - Four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs are.<br>
- 1. Both reading, and math scores will not have value<br>
- 2. Average reading score will be calculated without ninth grade reading score<br>
- 3. Average math score will be calculated without ninth grade math score<br>
+ 1. Both reading, and math scores will not have value.<br>
+ 2. Average reading score will be calculated without ninth grade reading score.<br>
+ 3. Average math score will be calculated without ninth grade math score.<br>
  4. Reading and math scores for 9th grades at Thomas High School will show NaN as value.<br>
 
 
